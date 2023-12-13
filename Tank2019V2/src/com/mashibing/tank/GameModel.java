@@ -69,8 +69,7 @@ public class GameModel implements Serializable {
 
 
             AbstractGameObject go1 = objects.get(i);
-            for(int j=0; j<objects.size(); j++) {
-                AbstractGameObject go2 = objects.get(j);
+            for (AbstractGameObject go2 : objects) {
                 chain.collide(go1, go2);
             }
 
