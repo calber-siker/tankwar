@@ -1,149 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd04879-b65a-4277-ac9c-3fc27c84dfe6" name="Default Changelist" comment="坦克联网版2019">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.19.Final-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.19.Final-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.19.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/Apple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/ImageTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/SerializeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/T.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/TT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/TestConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/ThreadTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/ThreadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/audio/explode.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/audio/tank_fire.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/audio/tank_move.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/audio/war1.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/callable/CallableAndFuture.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/callable/FutureTaskTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/callable/MyTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/net/bio/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/net/bio/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/net/netty/MyChildHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/net/netty/MyChildInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/net/netty/NettyClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/net/netty/NettyClient$MyHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/net/netty/NettyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/net/netty/NettyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettychat/Client$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettychat/Client$MyHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettychat/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettychat/ClientFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettychat/ClientFrame$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettychat/ClientFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettychat/Server$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettychat/Server$ServerChildHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettychat/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettychat/ServerFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettychat/ServerFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettycodec/Client$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettycodec/Client$MyHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettycodec/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettycodec/Server$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettycodec/Server$ServerChildHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettycodec/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettycodec/ServerFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettycodec/ServerFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettycodec/TankMsg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettycodec/TankMsgDecoder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettycodec/TankMsgEncoder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/nettycodec/TankMsgTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/AbstractGameObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/Audio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/Bullet$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/Bullet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/Dir.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/Explode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/GameModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/Group.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/ImageUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/Player$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/PropertyMgr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/ResourceMgr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/Tank$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/Tank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/TankFrame$TankKeyListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/TankFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/Wall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/chainofresponsibility/BulletTankCollider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/chainofresponsibility/BulletWallCollider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/chainofresponsibility/Collider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/chainofresponsibility/ColliderChain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/chainofresponsibility/TankTankCollider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/chainofresponsibility/TankWallCollider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/BulletNewMsg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/Client$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/Client$MyHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/Msg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/MsgDecoder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/MsgEncoder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/MsgType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/Server$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/Server$ServerChildHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/ServerFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/ServerFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/TankDieMsg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/TankJoinMsg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/TankJoinMsgTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/TankMoveOrDirChangeMsg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/TankMoveOrDirChangeMsgTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/TankStopMsg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/net/TankStopMsgTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/strategy/DefaultFireStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/strategy/FireStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/strategy/FourDirFireStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/strategy/LeftRightFireStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/com/mashibing/tank/strategy/LeftUpFireStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/BadTank1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/BadTank2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/GoodTank1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/GoodTank2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/bulletD.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/bulletL.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/bulletR.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/bulletU.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/bulletU.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/e9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/missileLD.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/missileLU.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/missileRD.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/missileRU.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/square0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/square1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/square2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/square3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/square4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/square5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/square6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tank2019V2/images/tank.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tank2019V2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tank2019V2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/_jar/坦克大战.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/artifacts/_jar/坦克大战.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/坦克大战/com/mashibing/tank/GameModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/坦克大战/com/mashibing/tank/GameModel.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,11 +38,14 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="dsgreem4" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="1rhK9hxuvfsyvNBnWWBrCJpHABQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -188,25 +54,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/test/com/mashibing/tank" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/代码/实验报告/tankwar/Tank2019V2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.mashibing.tank" />
@@ -238,7 +99,18 @@
       <recent name="com.mashibing.tank.chainofresponsibility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.TankStopMsgTest.decode">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mashibing.tank.Main" />
       <module name="Tank2019V2" />
@@ -278,17 +150,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TankStopMsgTest.decode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tank2019V2" />
       <extension name="coverage">
@@ -322,17 +183,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ServerFrame" />
       <item itemvalue="JUnit.TankStopMsgTest.decode" />
       <item itemvalue="JUnit.TankStopMsgTest.encode" />
-      <item itemvalue="Application.Server" />
+      <item itemvalue="应用程序.Main" />
+      <item itemvalue="应用程序.Server" />
+      <item itemvalue="应用程序.ServerFrame" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ServerFrame" />
-        <item itemvalue="Application.Server" />
         <item itemvalue="JUnit.TankStopMsgTest.decode" />
         <item itemvalue="JUnit.TankStopMsgTest.encode" />
       </list>
@@ -350,6 +208,8 @@
       <option name="presentableId" value="Default" />
       <updated>1561291654902</updated>
       <workItem from="1619422733889" duration="2094000" />
+      <workItem from="1702464567893" duration="653000" />
+      <workItem from="1702609221566" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="坦克第一天，做好基础的OO，做好键盘的处理，键盘记录哪个键按下，计算方向，根据方向，做出移动！">
       <created>1561297936685</created>
